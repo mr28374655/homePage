@@ -39,7 +39,7 @@ header {
 .container div span {
   font-size: 25px;
   position: absolute;
-  bottom: 10%;
+  bottom: 5%;
   color: #fff;
   z-index: 2;
   left: 20%;
@@ -50,7 +50,7 @@ header {
   font-size: 20px;
   opacity: 0.8;
   background: #000;
-  height: 50%;
+  height: 40%;
   width: 100%;
   bottom: 0;
 }
@@ -68,6 +68,7 @@ header {
   height: 100%;
 }
 .container div h2 {
+  font-size: 3rem;
   transition: color;
   transition-duration: 0.4s;
 }
